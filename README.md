@@ -1,7 +1,7 @@
-## Growy
+# Growy
 <img width="1512" height="547" alt="image" src="https://github.com/user-attachments/assets/926b8fdc-14d8-4de1-a702-fb5ba8846888" />
 
-An Android app that helps you keep your houseplants alive by reminding you when to water them. Designed and built with a focus on a friendly, playful interface.
+> An Android app that helps you keep your houseplants alive by reminding you when to water them. Designed and built with a focus on a friendly, playful interface.
 
 ## Features
 - Choose which plants you own from a plant library or add your own
